@@ -1,1 +1,2 @@
 thi is from feature 2
+added new line from branch feature 2
